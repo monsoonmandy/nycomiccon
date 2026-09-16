@@ -87,16 +87,133 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 | Marc Viure | ❌ | ❌ | ❌ | No confirmed shop |
 | Margeaux Pepoy | ❌ | ❌ | ❌ | Own site (pepoy.com) |
 
+### Continued from `remaining_artist_alley.txt` (this pass)
+
+| Artist | Redbubble | TeePublic | Dashery | Notes |
+|---|---|---|---|---|
+| Al Ewing | ❌ | ❌ | ❌ | Writer; only auto-generated collection pages |
+| Al Milgrom | ❌ | ❌ | ❌ | No shop found |
+| Alessandro Vitti | ❌ | ❌ | ❌ | No shop found |
+| Alex Dos Diaz | ❌ | ❌ | ❌ | INPRNT + own site (alexdosdiaz.com) |
+| Alex Nino Art | ❌ | ❌ | ❌ | No shop found |
+| Alex Ogle | ❌ | ❌ | ❌ | No shop found |
+| ALEX SAVIUK | ❌ | ❌ | ❌ | No shop found |
+| Alex Segura | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Alex Sinclair | ❌ | ❌ | ❌ | Colorist; RB "Alex Sinclair" listing is a different seller (ChainsawNecktie) |
+| Alexandra Brodt Illustration | ❌ | ❌ | ❌ | No shop found |
+| Alfredo Cardona | ❌ | ❌ | ❌ | No shop found |
+| Alitha E. Martinez | ❌ | ❌ | ❌ | No shop found |
+| Amy Chu | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Andrea Milana | ❌ | ❌ | ❌ | No shop found |
+| Andrea Scalmazzi | ❌ | ❌ | ❌ | No shop found |
+| Andrew Lee Griffith | ❌ | ❌ | ❌ | No shop found |
+| Andrew Robinson | ❌ | ❌ | ❌ | Common name; only auto-generated collection pages |
+| Andy Price | ❌ | ❌ | ❌ | No shop found |
+| Anna Zhuo | ❌ | ❌ | ❌ | No shop found |
+| Anthony Fowler Jr. | ❌ | ❌ | ❌ | No shop found |
+| Ariel Diaz Art | ❌ | ❌ | ❌ | No shop found |
+| ALICEXZ (Alice X. Zhang) | ❌ | ❌ | ❌ | Own Shopify (shop.alicexz.com) + INPRNT |
+| Art de Mog Park | ❌ | ❌ | ❌ | No own storefront found |
+| Art of Alexander Iaccarino | ❌ | ❌ | ❌ | No shop found |
+| Art of Caitlin Ono | ❌ | ❌ | ❌ | No shop found |
+| Art of Crystal Sully - Untamed Beasts, LLC | ❌ | ❌ | ❌ | No shop found |
+| Art of Kit Steele | ❌ | ❌ | ❌ | No shop found |
+| Arthur Adams | ❌ | ❌ | ❌ | Only auto-generated collection pages |
+| Asia Simone | ❌ | ❌ | ❌ | No shop found |
+| Astrovvitch | ❌ | ❌ | ❌ | No shop found (astrovials is a different seller) |
+| **AzizDraws LLC** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/azizm ("T-Shirts by AzizDraws"; designs bylined azizdraws) |
+| BatskyStarman | ❌ | ❌ | ❌ | No shop found |
+| Becca Farrow | ❌ | ❌ | ❌ | No shop found |
+| Becky Cloonan & Michael Conrad | ❌ | ❌ | ❌ | No shop found |
+| Ben Bishop | ❌ | ❌ | ❌ | Only auto-generated collection pages |
+| ben caldwell | ❌ | ❌ | ❌ | No shop found |
+| Ben Templesmith | ❌ | ❌ | ❌ | Only auto-generated collection pages; sells via own site/Patreon |
+| Benhameen | ❌ | ❌ | ❌ | No shop found |
+| Benjamin Su | ❌ | ❌ | ❌ | No shop found |
+| Bill Plympton | ❌ | ❌ | ❌ | Own site/studio store (plymptoons.com) |
+| Bilquis Evely | ❌ | ❌ | ❌ | No shop found |
+| Björn Barends | ❌ | ❌ | ❌ | No shop found (Björn Norberg is a different artist) |
+| Blindwolf Studios | ❌ | ❌ | ❌ | No shop found |
+| Bob Camp | ❌ | ❌ | ❌ | No own storefront (Ren & Stimpy merch is licensed/other sellers) |
+| Bob Hall | ❌ | ❌ | ❌ | No shop found |
+| Brad Sun | ❌ | ❌ | ❌ | No shop found |
+| Bradley Clayton | ❌ | ❌ | ❌ | No shop found |
+| **Brandon Kenney** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/ethrendil ("T-Shirts by Brandon Kenney") |
+| Brett Bean | ❌ | ❌ | ❌ | No shop found |
+| Brian Azzarello | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| **Butts on Things / Brian Cook** | **✅** | ❌ | ❌ | Confirmed: redbubble.com/people/briancookart — "Butts on Things" is his own RB collection |
+| **Cara McGee** | **✅** | ❌ | ❌ | Confirmed own shop: redbubble.com/people/ohcararara/shop ("Cara McGee Shop") |
+| Carlations | ❌ | ❌ | ❌ | No shop found |
+| Carola Borelli | ❌ | ❌ | ❌ | No shop found |
+| Carlos Nieto | ❌ | ❌ | ❌ | No shop found |
+| CaseyDambro | ❌ | ❌ | ❌ | No shop found |
+| Cat Staggs | ❌ | ❌ | ❌ | No shop found |
+| catchingtoast | ❌ | ❌ | ❌ | No shop found |
+| Caterina Mazzei | ❌ | ❌ | ❌ | No shop found |
+| CELIA CALLE | ❌ | ❌ | ❌ | No shop found |
+| Chalzea Xu | ❌ | ❌ | ❌ | No shop found |
+| Charles Soule | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Charles P. Wilson III / Charles Stewart III | ❌ | ❌ | ❌ | No shop found |
+| CHIOU! | ❌ | ❌ | ❌ | No shop found |
+| Chris campana | ❌ | ❌ | ❌ | No shop found |
+| Chris Condon | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| **Chris Schweizer** | **✅** | ❌ | ❌ | Confirmed own shop: redbubble.com/people/schweizercomics/shop (bio matches: comics/kids books, 3x Eisner nominee) |
+| Chrissie Zullo Uminga | ❌ | ❌ | ❌ | No shop found |
+| Christopher Sotomayor | ❌ | ❌ | ❌ | No shop found |
+| Christopher Uminga | ❌ | ❌ | ❌ | No shop found (sells via own site/galleries) |
+| Chumaruko | ❌ | ❌ | ❌ | No shop found |
+| Claudia Leonardi | ❌ | ❌ | ❌ | No shop found |
+| Clay Mann | ❌ | ❌ | ❌ | No shop found |
+| Clayton Henry | ❌ | ❌ | ❌ | No shop found |
+| Cliff Chiang | ❌ | ❌ | ❌ | Only auto-generated/fan pages; sells via own site |
+| Clinton T Hobart | ❌ | ❌ | ❌ | No shop found |
+| clivenzu | ❌ | ❌ | ❌ | No shop found |
+| Colorreaper | ❌ | ❌ | ❌ | No shop found (colorwrath is a different seller) |
+| Conor Hughes | ❌ | ❌ | ❌ | No shop found |
+| Corinne Roberts Illustration | ❌ | ❌ | ❌ | No shop found |
+| Creees Lee | ❌ | ❌ | ❌ | No shop found |
+| Cryssy Cheung | ❌ | ？ | ❌ | Art IS on TeePublic but via the **ForAllNerds** store ("Inclusion Is Revolution" collab), not her own storefront — worth an in-person conversation |
+| Dan Dougherty | ❌ | ❌ | ❌ | Beardo Comics; own site/Kickstarter |
+| **Dan Panosian** | ❌ | **✅** | **✅** | Confirmed: urbanbarbarian.dashery.com ("Urban Barbarian | Official Merch Store") + TeePublic designs bylined `urbanbarbarian` — his known handle. **First Dashery hit.** |
+| Dan Parent | ❌ | ❌ | ❌ | No shop found |
+| Daniel Barnes | ❌ | ❌ | ❌ | No shop found |
+| Daniel Govar | ❌ | ❌ | ❌ | No own shop (a 3rd-party seller used his cover art) |
+| Daniel Henriques | ❌ | ❌ | ❌ | No shop found |
+| Daniel Warren Johnson | ❌ | ❌ | ❌ | No shop found (results are Daniel Johnston, unrelated) |
+| Danny Earls | ❌ | ❌ | ❌ | No shop found |
+| Dario Brizuela | ❌ | ❌ | ❌ | No shop found |
+| Dave Baker & Nicole Goux | ❌ | ❌ | ❌ | No shop found |
+| Dave Johnson | ❌ | ❌ | ❌ | No shop found |
+| Daimon Hampton | ❌ | ❌ | ❌ | Own site daimondrewthis.art (@daimondrewthis); DC Milestone Initiative |
+| David Baron | ❌ | ❌ | ❌ | Colorist, no shop found |
+| David Finch | ❌ | ❌ | ❌ | No shop found |
+| David Messina | ❌ | ❌ | ❌ | No shop found |
+| David Pepose | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| David Petersen | ❌ | ❌ | ❌ | Mouse Guard merch on RB is third-party fan art; sells via own site |
+| Declan Shalvey | ❌ | ❌ | ❌ | No shop found |
+| Demaymayart | ❌ | ❌ | ❌ | No shop found (DeemeeArt is a different seller) |
+| Deniz Camp | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Denys Cowan | ❌ | ❌ | ❌ | No shop found |
+| Derek Hunter | ❌ | ❌ | ❌ | No shop found |
+| Dewpearl Art | ❌ | ❌ | ❌ | No shop found (Dewwydarts is a different seller) |
+| Dike Ruan | ❌ | ❌ | ❌ | No shop found |
+| Dioknarf | ❌ | ❌ | ❌ | No shop found |
+| Dirk Manning | ❌ | ❌ | ❌ | No shop found |
+| Dong Ho Kim | ❌ | ❌ | ❌ | No shop found |
+| Drew Zucker | ❌ | ❌ | ❌ | No shop found |
+| E. M. Gist | ❌ | ❌ | ❌ | No shop found (sells originals/prints via own site) |
+| Edgar Delgado | ❌ | ❌ | ❌ | No shop found |
+| Edwin Huang | ❌ | ❌ | ❌ | No shop found |
+
 ## Status
-- Checked: 85 / ~450 (Artist Alley)
-- Confirmed hits so far: **Acorviart** (RB+TP), **Agnes Garbowska** (RB), **Arielle Jovellanos** (RB), **Ayu Yamane** (RB), **Danny Haas** (TP), **Femmmeow** (RB), **HAZMATEN** (RB), **INKPULP** (TP), **Karen Hallion** (RB+TP); likely: **Brianna Garcia** (RB)
-- Exhibitors list: not started
-- Next up (alphabetical): Maria Wolf & Jimmy Kucaj, Mariana Moreno, Mario Santoro, Marissa Pope, Mark Bagley, Mark Brooks, Mark Morales, Marko Djurdjević, Martin Morazzo, Martin Simmonds...
-- Confirmed hits so far: **Acorviart** (RB+TP), **Agnes Garbowska** (RB), **Arielle Jovellanos** (RB), **Ayu Yamane** (RB), **Danny Haas** (TP), **Femmmeow** (RB), **HAZMATEN** (RB), **INKPULP** (TP); likely: **Brianna Garcia** (RB)
-- Exhibitors list: not started
-- Next up (alphabetical): Jim Calafiore, Jim Starlin, Jim Zub, Jimmy Palmiotti, jjolee, Jocelyn Short LLC, Jock, Jodie Rae Charity, Jody Houser, Joe Caramagna...
+- Artist Alley checked: **198 / ~450** (113 added this pass)
+- Confirmed hits: **Acorviart** (RB+TP), **Agnes Garbowska** (RB), **Arielle Jovellanos** (RB), **Ayu Yamane** (RB), **AzizDraws** (TP), **Brandon Kenney** (TP), **Butts on Things / Brian Cook** (RB), **Cara McGee** (RB), **Chris Schweizer** (RB), **Dan Panosian / Urban Barbarian** (TP+Dashery), **Danny Haas** (TP), **Femmmeow** (RB), **HAZMATEN** (RB), **INKPULP** (TP), **Karen Hallion** (RB+TP)
+- Likely: **Brianna Garcia** (RB)
+- Adjacent: **Cryssy Cheung** — art on TeePublic via the ForAllNerds store, not her own storefront
+- Exhibitors list: not started (awaiting pasted list from the user)
 
 ## Note on method
+
 Plain "[name] + redbubble/teepublic" web searches return a lot of generic platform boilerplate
 (same FAQ/marketing pages repeat constantly) rather than targeted hits, especially for names
 that also match unrelated people (musicians, historical figures, etc). Real hits so far have
