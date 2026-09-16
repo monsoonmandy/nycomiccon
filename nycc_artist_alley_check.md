@@ -295,7 +295,7 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 
 ### Continued from `remaining_artist_alley.txt` (pass 3)
 
-**132 of the 265 remaining names checked this pass; 133 still unchecked** (search budget —
+**169 of the 265 remaining names checked this pass; 96 still unchecked** (search budget —
 see the Status section). Ordering note: this pass did *not* run strictly down the list.
 Restricted web search is the only channel available (see "Note on method"), and the search
 backend silently retries 1–5 times per query, so the per-session budget buys well under one
@@ -303,7 +303,7 @@ name per unit. To be sure the high-value names got checked before the budget ran
 pass front-loaded the independent / handle-style illustrator names — the population that
 actually uses print-on-demand — and left the staff writers, inkers, colorists, letterers and
 work-for-hire cover artists for last. `remaining_artist_alley.txt` has been rewritten to
-exactly the 133 names still outstanding.
+exactly the 96 names still outstanding.
 
 | Artist | Redbubble | TeePublic | Dashery | Notes |
 |---|---|---|---|---|
@@ -439,14 +439,51 @@ exactly the 133 names still outstanding.
 | YUKINNNNNNN | ❌ | ❌ | ❌ | No shop found (Yukiin is a different seller) |
 | Zara H Art | ❌ | ❌ | ❌ | No shop found |
 | ZOE LACCHEI | ❌ | ❌ | ❌ | No shop found |
+| The Art of Joe Hogan & Tina Quiri | ❌ | ❌ | ❌ | No shop found (the RB "Joe Hogan Rogan" design is a meme by seller `meme-dreamer`) |
+| Justin Mason | ❌ | ❌ | ❌ | No shop found |
+| Kai Lun Qu Oil Paintings | ❌ | ❌ | ❌ | No shop found |
+| Lucas Meyer | ❌ | ❌ | ❌ | No shop found |
+| Luana Vecchio | ❌ | ❌ | ❌ | No shop found |
+| Luigi Zagaria | ❌ | ❌ | ❌ | No shop found |
+| M.K. Matsumoto | ❌ | ❌ | ❌ | No shop found (results are academic papers by other Matsumotos) |
+| Marc Yarza | ❌ | ❌ | ❌ | No shop found |
+| Maria Wolf & Jimmy Kucaj | ❌ | ❌ | ❌ | No shop found for either half (searched "Jimmy Kucaj") |
+| **Mariana Moreno** | ？(likely ✅) | ❌ | ❌ | **Worth a follow-up.** A real shop exists at redbubble.com/people/mariana-moreno/shop — exact full-name slug, Mayan/zodiac/animal illustration. Marked "likely" only because the name is common enough that it could be a different Mariana Moreno |
+| Martin Simmonds | ❌ | ❌ | ❌ | No shop found (*Department of Truth* artist) |
+| Matheus Lopez | ❌ | ❌ | ❌ | No shop found |
+| Matt Gaudio | ❌ | ❌ | ❌ | No shop found |
+| Matt Lesniewski | ❌ | ❌ | ❌ | No shop found |
+| Max Schaller | ❌ | ❌ | ❌ | No shop found |
+| Meghan Fitzmartin | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Michael Dialynas | ❌ | ❌ | ❌ | No shop found |
+| Miguel Mendonça | ❌ | ❌ | ❌ | No shop found |
+| Morgan Hampton | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Netho Diaz | ❌ | ❌ | ❌ | No shop found (results are MMA's Nate Diaz) |
+| Paolo Villanelli | ❌ | ❌ | ❌ | No shop found |
+| Patricia Martin | ❌ | ❌ | ❌ | No shop found |
+| Queen Riot LLC | ❌ | ❌ | ❌ | No shop found (generic "riot" keyword pages) |
+| Rachel Cherry | ❌ | ❌ | ❌ | No shop found |
+| Ryan North | ❌ | ❌ | ❌ | Only an auto-generated "Ryan North" keyword page; sells via TopatoCo, not POD |
+| Sanford Greene | ❌ | ❌ | ❌ | No shop found (results are *Sanford and Son*) |
+| Scotts Collectables | ❌ | ❌ | ❌ | No shop found |
+| Scott's Collectibles | ❌ | ❌ | ❌ | No shop found (duplicate spelling of the above in the exhibitor list) |
+| Soo Lee | ❌ | ❌ | ❌ | No shop found (name collides with Korean celebrities; not resolvable by this method) |
+| Stan Sakai | ❌ | ❌ | ❌ | *Usagi Yojimbo* merch on RB/TP is third-party fan art; no own storefront |
+| Stephanie Williams | ❌ | ❌ | ❌ | No shop found (JustStephanie is a different seller) |
+| Steve McGarry | ❌ | ❌ | ❌ | No shop found (results are *West Wing* McGarry) |
+| Tate Brombal | ❌ | ❌ | ❌ | No shop found (Ashleigh Brombal / `bromtats` is a different person — a Brisbane tattoo artist) |
+| Tom Velez | ❌ | ❌ | ❌ | No shop found |
+| Tommaso Bianchi | ❌ | ❌ | ❌ | No shop found (results are the Bianchi bicycle brand) |
+| Tyler Chin-Tanner | ❌ | ❌ | ❌ | No shop found (A Wave Blue World publisher) |
+| Viktor Farro | ❌ | ❌ | ❌ | No shop found |
 ## Status
-- **Pass 3 (this pass): 132 of the 265 remaining names checked; 133 still outstanding.**
-  `remaining_artist_alley.txt` has been rewritten to exactly those 133 names.
+- **Pass 3 (this pass): 169 of the 265 remaining names checked; 96 still outstanding.**
+  `remaining_artist_alley.txt` has been rewritten to exactly those 96 names.
 - Cumulative Artist Alley coverage: pass 1–2 tables (above) + 132 names here. (Note: the
   pass-2 count of "286 / ~450" doesn't reconcile with a 466-name master list plus 265
   remaining — 286 + 265 = 551 — so there is some double-counting in the earlier tally.
-  The figure to trust is the one that is directly verifiable: **132 of the 265 names in
-  `remaining_artist_alley.txt` are now checked, 133 are not.**)
+  The figure to trust is the one that is directly verifiable: **169 of the 265 names in
+  `remaining_artist_alley.txt` are now checked, 96 are not.**)
 - **Why this pass stopped where it did:** the session's web-search budget again ran down.
   Two things make each name cost more than one search: (a) direct HTTPS to
   redbubble.com / teepublic.com / dashery.com is refused at the network egress proxy
@@ -457,7 +494,7 @@ exactly the 133 names still outstanding.
   itself 1–5 times when it can't satisfy the query, which it usually can't for an obscure
   artist name. Well-known names are the worst offenders (e.g. "Jeph Loeb" burned 5 units,
   "Tracy Yardley" 5, "Nathan W. Pyle" 5).
-- **To finish the remaining 133:** raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`, or
+- **To finish the remaining 96:** raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`, or
   allow redbubble.com / teepublic.com / dashery.com through the egress policy (by far the
   bigger win — a direct fetch of `redbubble.com/people/<handle>` or
   `teepublic.com/user/<handle>` would settle each name in one cheap request with no
@@ -485,6 +522,8 @@ Leads worth finishing in person or with one more check:
 - **Marissa Pope** — her cover art *is* selling on Redbubble, but through the third-party store
   `jackscomics`, not her own account. Same situation as Cryssy Cheung below: she already has an
   Articore-platform relationship by proxy, which makes her a good conversation.
+- **Mariana Moreno** — `redbubble.com/people/mariana-moreno/shop` is an exact full-name slug, but
+  the name is common enough that it may be a different person.
 
 ### Confirmed hits — passes 1–2 (15 + 1 likely)
 | Artist | Where |
