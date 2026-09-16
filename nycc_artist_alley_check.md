@@ -176,9 +176,9 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 | Dan Dougherty | ❌ | ❌ | ❌ | Beardo Comics; own site/Kickstarter |
 | **Dan Panosian** | ❌ | **✅** | **✅** | Confirmed: urbanbarbarian.dashery.com ("Urban Barbarian | Official Merch Store") + TeePublic designs bylined `urbanbarbarian` — his known handle. **First Dashery hit.** |
 | Dan Parent | ❌ | ❌ | ❌ | No shop found |
-| Daniel Barnes | ❌ | ❌ | ❌ | No shop found |
+| Daniel Barnes | — | — | — | **Not yet checked** (search budget exhausted before this name) |
 | Daniel Govar | ❌ | ❌ | ❌ | No own shop (a 3rd-party seller used his cover art) |
-| Daniel Henriques | ❌ | ❌ | ❌ | No shop found |
+| Daniel Henriques | — | — | — | **Not yet checked** (search budget exhausted before this name) |
 | Daniel Warren Johnson | ❌ | ❌ | ❌ | No shop found (results are Daniel Johnston, unrelated) |
 | Danny Earls | ❌ | ❌ | ❌ | No shop found |
 | Dario Brizuela | ❌ | ❌ | ❌ | No shop found |
@@ -204,19 +204,145 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 | E. M. Gist | ❌ | ❌ | ❌ | No shop found (sells originals/prints via own site) |
 | Edgar Delgado | ❌ | ❌ | ❌ | No shop found |
 | Edwin Huang | ❌ | ❌ | ❌ | No shop found |
+| Edgar Salazar with Splash Page Comic Art | ❌ | ❌ | ❌ | Represented by Splash Page Comic Art (original art sales) |
+| **Elias Chatzoudis** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/eliaschatzoudis (161 designs; pinup/cover art matches his work) |
+| Ellery | ❌ | ❌ | ❌ | No shop found |
+| Emilio Lopez | ❌ | ❌ | ❌ | Colorist, no shop found |
+| Emma Kubert | ❌ | ❌ | ❌ | No shop found |
+| Enid Balam | ❌ | ❌ | ❌ | No shop found |
+| Eric Canete | ❌ | ❌ | ❌ | No shop found |
+| Eric Palicki | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Eric Talbot | ❌ | ❌ | ❌ | No shop found |
+| Erik Larsen and Savage Dragon | ❌ | ❌ | ❌ | Savage Dragon merch on RB/TP is third-party fan art |
+| Esad Ribic | ❌ | ❌ | ❌ | No shop found |
+| Ethan M. Aldridge | ❌ | ❌ | ❌ | No shop found |
+| Ethan Sacks | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| EtudeForGhosts | ❌ | ❌ | ❌ | No shop found |
+| Fabrizio De Tommaso | ❌ | ❌ | ❌ | No shop found |
+| Fan Yang | — | — | — | **Not yet checked** (search budget exhausted before this name) |
+| Fede Mele | ❌ | ❌ | ❌ | No shop found |
+| Federico Vicentini | ❌ | ❌ | ❌ | No shop found |
+| Fernando Blanco | ❌ | ❌ | ❌ | No shop found |
+| Fero Pe | ❌ | ❌ | ❌ | A generic `teepublic.com/user/fero` exists but content (tattoo-style art) doesn't match; not him |
+| FlanCortes | ❌ | ❌ | ❌ | No shop found |
+| Flatscan | ❌ | ❌ | ❌ | "Flatscan" hits are X-Men fan designs by other sellers, not this exhibitor |
+| **Fletch-A-Sketch** (also listed as *Fletch-A-Sketch Talent Representation*) | **✅** | ❌ | ❌ | Confirmed own shop: redbubble.com/people/fletchasketch/shop (exact handle match) |
+| Francesco Tomaselli | ❌ | ❌ | ❌ | No shop found |
+| Francine Delgado | ❌ | ❌ | ❌ | No shop found |
+| Frank Cho | ❌ | ❌ | ❌ | Sells via own site/cons |
+| Frank Martin | ❌ | ❌ | ❌ | Colorist, no shop found |
+| Fred Van Lente | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Frederic Pham Chuong | ❌ | ❌ | ❌ | No shop found |
+| Gabriel Picolo | ❌ | ❌ | ❌ | Huge following but sells via own site/publisher, not POD |
+| Gavin Guidry | ❌ | ❌ | ❌ | No shop found |
+| Gavin Smith | ❌ | ❌ | ❌ | No shop found |
+| **GDBee Art** | **✅** | **✅** | ❌ | Confirmed: redbubble.com/people/gdbee/shop (133 designs, 10k+ followers, NC-based digital artist) + same "ARTIST" design on TeePublic bylined `gdbee` |
+| Geof Darrow | ❌ | ❌ | ❌ | Only third-party fan designs |
+| Giulia Pellegrini | ❌ | ❌ | ❌ | No shop found |
+| Godtail | ❌ | ❌ | ❌ | No shop found |
+| Greg and Fake | ❌ | ❌ | ❌ | No shop found |
+| Greg Capullo | ❌ | ❌ | ❌ | Only third-party fan designs |
+| Greg Horn Art | ❌ | ❌ | ❌ | Sells via own site (greghornart.com) |
+| **hanavbara** | **✅** | ❌ | ❌ | Confirmed own shop: redbubble.com/people/hanavbara (exact handle match; anime/pop-culture designs) |
+| Hannah Hillam | ❌ | ❌ | ❌ | No shop found |
+| Harmony Gong | ❌ | ❌ | ❌ | No shop found |
+| Hip Hop Comix N Flix | ❌ | ❌ | ❌ | No shop found |
+| HuaXuan | ❌ | ❌ | ❌ | "Huaxuan" hits are a TGCF fan-pairing tag, not this artist |
+| Humberto Ramos | ❌ | ❌ | ❌ | No shop found |
+| Ian Bertram | ❌ | ❌ | ❌ | No shop found |
+| illuscyn | ❌ | ❌ | ❌ | No shop found |
+| InkforwordsArt | ❌ | ❌ | ❌ | No shop found |
+| Irene Y Lee | ❌ | ❌ | ❌ | No shop found |
+| Isaac Escorza | ❌ | ❌ | ❌ | No shop found |
+| Isaac Goodhart | ❌ | ❌ | ❌ | No shop found |
+| Isadora Zeferino | ❌ | ❌ | ❌ | No shop found (results are an *Elite* TV character) |
+| Ivan Fiorelli | ❌ | ❌ | ❌ | No shop found |
+| Jackie Acki Lewis | ❌ | ❌ | ❌ | No shop found |
+| Jackie Doan Art & Design | ❌ | ❌ | ❌ | No shop found |
+| Jacob Chabot | ❌ | ❌ | ❌ | No shop found |
+| Jacob Phillips | ❌ | ❌ | ❌ | No shop found (hits are an NFL player of the same name) |
+| Jacobus Studios | ❌ | ❌ | ❌ | No shop found |
+| Jae Lee | ❌ | ❌ | ❌ | No shop found |
+| Jake Parker | ❌ | ❌ | ❌ | Inktober founder; sells via own site/SVSLearn, not POD |
+| Jamal Igle and Company | ❌ | ❌ | ❌ | No shop found |
+| Janet Sung | ❌ | ❌ | ❌ | No shop found |
+| Jason Howard | ❌ | ❌ | ❌ | No shop found |
+| Javi Fernandez | ❌ | ❌ | ❌ | No shop found |
+| Jeff Dekal | ❌ | ❌ | ❌ | RB "Dekal" shop is a different artist (Trinidad & Tobago) |
+| Jelena Djurdjevic with Splash Page Comic Art | ❌ | ❌ | ❌ | Represented by Splash Page Comic Art |
+| Jenna Cha | ❌ | ❌ | ❌ | No shop found |
+| JEREMY HAUN | ❌ | ❌ | ❌ | No shop found |
+| Jerome Opena | ❌ | ❌ | ❌ | No shop found |
+| Jim Calafiore | ❌ | ❌ | ❌ | No shop found |
+| Jim Zub | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Jimmy Palmiotti | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| jjolee | ❌ | ❌ | ❌ | No shop found (Joolee is a different artist) |
+| Jason Aaron | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Javier Rodrígues | ❌ | ❌ | ❌ | No shop found |
+| Jim Starlin | ❌ | ❌ | ❌ | Only third-party fan designs |
+| Jodie Rae Charity | ❌ | ❌ | ❌ | No shop found |
+| Jody Houser | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Joe Caramagna | ❌ | ❌ | ❌ | Letterer, no shop found |
+| Joe Eisma | ❌ | ❌ | ❌ | No shop found |
+| Joe Harris | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| John Beatty | ❌ | ❌ | ❌ | Inker, no shop found |
+| John Bivens | ❌ | ❌ | ❌ | No shop found |
+| John J. Pearson | ❌ | ❌ | ❌ | No shop found |
+| John Timms | ❌ | ❌ | ❌ | No shop found |
+| Johnny Dombrowski | ❌ | ❌ | ❌ | No shop found |
+| Jonathan Wayshak | ❌ | ❌ | ❌ | No shop found |
+| Jorge Fornes | ❌ | ❌ | ❌ | No shop found |
 
 ## Status
-- Artist Alley checked: **198 / ~450** (113 added this pass)
-- Confirmed hits: **Acorviart** (RB+TP), **Agnes Garbowska** (RB), **Arielle Jovellanos** (RB), **Ayu Yamane** (RB), **AzizDraws** (TP), **Brandon Kenney** (TP), **Butts on Things / Brian Cook** (RB), **Cara McGee** (RB), **Chris Schweizer** (RB), **Dan Panosian / Urban Barbarian** (TP+Dashery), **Danny Haas** (TP), **Femmmeow** (RB), **HAZMATEN** (RB), **INKPULP** (TP), **Karen Hallion** (RB+TP)
-- Likely: **Brianna Garcia** (RB)
-- Adjacent: **Cryssy Cheung** — art on TeePublic via the ForAllNerds store, not her own storefront
-- Exhibitors list: not started (awaiting pasted list from the user)
+- Artist Alley checked: **286 / ~450** (201 added this pass, names 1–210 of the 466-name list, in order)
+- **Remaining: 265 names** — `remaining_artist_alley.txt` has been rewritten to exactly those, resuming at *Ben Percy*
+- **This pass stopped early: the session's web-search budget (200 searches) was exhausted.** Direct
+  fetches to redbubble.com / teepublic.com are blocked by the network egress policy, so search was the
+  only available channel. To finish, raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` or start a new session.
+
+### Confirmed hits (15 + 1 likely)
+| Artist | Where |
+|---|---|
+| Acorviart | RB + TP |
+| Agnes Garbowska | RB |
+| Arielle Jovellanos | RB |
+| Ayu Yamane | RB |
+| **AzizDraws** | TP — teepublic.com/user/azizm |
+| **Brandon Kenney** | TP — teepublic.com/user/ethrendil |
+| **Butts on Things / Brian Cook** | RB — redbubble.com/people/briancookart |
+| **Cara McGee** | RB — redbubble.com/people/ohcararara |
+| **Chris Schweizer** | RB — redbubble.com/people/schweizercomics |
+| **Dan Panosian (Urban Barbarian)** | **Dashery** — urbanbarbarian.dashery.com — + TP |
+| Danny Haas | TP |
+| **Elias Chatzoudis** | TP — teepublic.com/user/eliaschatzoudis |
+| Femmmeow | RB |
+| **Fletch-A-Sketch** | RB — redbubble.com/people/fletchasketch |
+| **GDBee Art** | RB + TP — handle `gdbee` |
+| **hanavbara** | RB — redbubble.com/people/hanavbara |
+| HAZMATEN | RB |
+| INKPULP | TP |
+| Karen Hallion | RB + TP |
+| Brianna Garcia | RB *(likely)* |
+
+Worth a conversation even though it isn't her own storefront: **Cryssy Cheung** — her art sells on
+TeePublic through the *ForAllNerds* store ("Inclusion Is Revolution"), so she already has a TeePublic
+relationship by proxy.
+
+- Exhibitors list: not started (still awaiting the pasted list from the user)
 
 ## Note on method
+
 
 Plain "[name] + redbubble/teepublic" web searches return a lot of generic platform boilerplate
 (same FAQ/marketing pages repeat constantly) rather than targeted hits, especially for names
 that also match unrelated people (musicians, historical figures, etc). Real hits so far have
 come from finding the artist's own linked bio/print-shop list rather than the raw search snippet.
+**Refinement used in this pass:** searching the bare quoted name with results restricted to
+redbubble.com / teepublic.com / dashery.com. Real storefronts surface as `/people/<handle>/shop`,
+`/user/<handle>`, `/stores/<slug>` or `<name>.dashery.com`, while the auto-generated noise is always
+`/shop/<keywords>` — so the two are separable by URL shape alone, and one search covers all three
+platforms. Adding qualifier words like "artist"/"comics" makes the search agent retry repeatedly and
+wastes budget, so bare names work better.
+
 This means the false-negative rate is nontrivial — a "❌" here means "no evidence surfaced,"
 not "definitively absent."
