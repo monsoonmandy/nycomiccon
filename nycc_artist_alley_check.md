@@ -295,12 +295,15 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 
 ### Continued from `remaining_artist_alley.txt` (pass 3)
 
-Note on ordering: this pass did **not** run strictly down the list. Restricted web search is the only
-available channel (see "Note on method"), and the search backend silently retries 1–5 times per query,
-so the per-session search budget covers well under one name per budget unit. To make sure the
-high-value names got checked before any budget ran out, this pass front-loaded the independent /
-handle-style illustrator names (the population that actually uses POD) and left the staff
-writers, colorists, inkers, letterers and work-for-hire cover artists for afterwards.
+**132 of the 265 remaining names checked this pass; 133 still unchecked** (search budget —
+see the Status section). Ordering note: this pass did *not* run strictly down the list.
+Restricted web search is the only channel available (see "Note on method"), and the search
+backend silently retries 1–5 times per query, so the per-session budget buys well under one
+name per unit. To be sure the high-value names got checked before the budget ran out, this
+pass front-loaded the independent / handle-style illustrator names — the population that
+actually uses print-on-demand — and left the staff writers, inkers, colorists, letterers and
+work-for-hire cover artists for last. `remaining_artist_alley.txt` has been rewritten to
+exactly the 133 names still outstanding.
 
 | Artist | Redbubble | TeePublic | Dashery | Notes |
 |---|---|---|---|---|
@@ -313,116 +316,177 @@ writers, colorists, inkers, letterers and work-for-hire cover artists for afterw
 | Jeph Loeb | ❌ | ❌ | ❌ | Writer, no merch shop found |
 | Joe Quesada | ❌ | ❌ | ❌ | No shop found (only Marvel keyword pages) |
 | Jose Marzan Jr. | ❌ | ❌ | ❌ | Inker, no shop found |
-| Juan Doe | ❌ | ❌ | ❌ | No shop found ("john doe" keyword pages only) |
-| Kaare Andrews | ❌ | ❌ | ❌ | No shop found |
-| Katie Cook | ❌ | ❌ | ❌ | No shop found (sells via own site/Etsy); several unrelated "Katie" RB shops |
 | Josh C Lyman | ❌ | ❌ | ❌ | No shop found; results are Josh Lyman (*The West Wing*) |
+| Juan Doe | ❌ | ❌ | ❌ | No shop found ("john doe" keyword pages only) |
 | JuanjoLopez | ❌ | ❌ | ❌ | No shop found |
+| Jules Mamone | ❌ | ❌ | ❌ | No shop found |
+| Julia Olimpia Art | ❌ | ❌ | ❌ | No shop found |
 | Julie Sakai | ❌ | ❌ | ❌ | No shop found |
 | JustaSuta Art + Design | ❌ | ❌ | ❌ | No shop found (results are Jujutsu Kaisen keyword pages) |
 | Jwijaya Art | ❌ | ❌ | ❌ | No shop found |
+| Kaare Andrews | ❌ | ❌ | ❌ | No shop found |
+| **Kai Texel & Riadoodles** | **✅** | **✅** | ❌ | Confirmed both, for the Riadoodles half: redbubble.com/people/riadoodles/shop AND teepublic.com/user/riadoodles — exact handle, anime/Pokémon/witchy art matches. ("Kai Texel" searched separately: no shop found.) |
 | KamoriaArt | ❌ | ❌ | ❌ | No shop found |
 | Kat Tsai Art | ❌ | ❌ | ❌ | No shop found (Kat's Fine Art Studio is a different seller) |
+| Katie Cook | ❌ | ❌ | ❌ | No shop found (sells via own site/Etsy); the similar RB "Katie" shops are other people |
+| Kelly McMahon Design | ❌ | ❌ | ❌ | No shop found |
 | Kelsey Matcha | ❌ | ❌ | ❌ | No shop found |
 | Kevin Scalzo | ❌ | ❌ | ❌ | No shop found |
-| Kgaz Art | — | — | — | Not checked (budget) |
-| KIBAR | — | — | — | Not checked (budget) |
-| Kim-Joy | ❌ | ❌ | ❌ | No shop found (Bake Off author; sells via own site/publisher) |
-| Kingwood Comics | — | — | — | Not checked (budget) |
-| Lauren Moran | — | — | — | Not checked (budget) |
-| Le Petit Elefant | — | — | — | Not checked (budget) |
-| Leanne Huynh Art | — | — | — | Not checked (budget) |
-| Lee Kohse | — | — | — | Not checked (budget) |
+| Kgaz Art | ❌ | ❌ | ❌ | No shop found |
+| KIBAR | ❌ | ❌ | ❌ | No shop found (hits are Turkish "Kibar Feyzo" merch) |
+| Kim-Joy | ❌ | ❌ | ❌ | No shop found (*Bake Off*; sells via own site/publisher) |
+| Kingwood Comics | ❌ | ❌ | ❌ | No shop found |
+| Le Petit Elefant | ❌ | ❌ | ❌ | No shop found (generic "little elephant" keyword pages) |
+| Leanne Huynh Art | ？ | ❌ | ❌ | **Worth a follow-up.** RB product pages (iPhone cases, prints, an FFIX "Vivi" dress) appear to carry her byline, but no `/people/<handle>` storefront surfaced and the handle guess `leannehuynh` returned nothing |
+| **Lee Kohse** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/kindergoth — *Kindergoth* is his own comic, and the store sells its logo merch |
 | Leirix | ❌ | ❌ | ❌ | No shop found (Leirix Li; sells via own site) |
 | Lictoria | ❌ | ❌ | ❌ | No shop found |
 | Lovelyillustration | ❌ | ❌ | ❌ | "lovelyillustration" is a generic RB *tag* used by many sellers, not this artist's shop |
-| Lucas Meyer | — | — | — | Not checked (budget) |
-| Luke McGarry | ❌ | ❌ | ❌ | No shop found (results are *West Wing* McGarry + unrelated Dashery store) |
-| M.K. Matsumoto | — | — | — | Not checked (budget) |
+| Luke McGarry | ❌ | ❌ | ❌ | No shop found (results are *West Wing* McGarry + an unrelated Dashery store) |
 | Maliadoodles | ❌ | ❌ | ❌ | No shop found (malinoodle / ruhamadoodles are different sellers) |
-| Marc Yarza | — | — | — | Not checked (budget) |
-| Marcelo Matere Art | — | — | — | Not checked (budget) |
-| Maria Wolf & Jimmy Kucaj | — | — | — | Not checked (budget) |
-| Mariana Moreno | — | — | — | Not checked (budget) |
-| Marissa Pope | — | — | — | Not checked (budget) |
-| Matt Gaudio | — | — | — | Not checked (budget) |
-| Max Schaller | — | — | — | Not checked (budget) |
-| Megan Huang | — | — | — | Not checked (budget) |
-| Megguran Studio LLC | — | — | — | Not checked (budget) |
+| Marcelo Matere Art | ❌ | ❌ | ❌ | No shop found (results are footballer Marcelo Vieira) |
+| Marissa Pope | ❌ | ❌ | ❌ | **Her art IS on Redbubble** — a "Miss Temperance by Marissa Pope" tee/poster — but sold through the third-party store **`jackscomics`**, not her own storefront. Same pattern as Cryssy Cheung; worth a conversation |
+| Megan Huang | ❌ | ❌ | ❌ | No shop found (Megan Auyeung is a different seller) |
+| Megguran Studio LLC | ❌ | ❌ | ❌ | No shop found |
 | MELONNABAR | ❌ | ❌ | ❌ | No shop found (only "melona/melon bar" keyword pages) |
 | Mike Krome | ❌ | ❌ | ❌ | No shop found (KromeStudios is an unrelated game studio) |
-| Millennial Comics | — | — | — | Not checked (budget) |
-| Monkey Minion | — | — | — | Not checked (budget) |
-| Mostafa Moussa | — | — | — | Not checked (budget) |
-| Nahuel Grego | — | — | — | Not checked (budget) |
-| Naomi Romero | — | — | — | Not checked (budget) |
+| Millennial Comics | ❌ | ❌ | ❌ | No shop found (generic "millennial humor" keyword pages) |
+| **Monkey Minion** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/monkeyminion (exact handle; own "2025 Monkey Minion Logo" design + raygun-gothic/sci-fi art) |
+| Mostafa Moussa | ❌ | ❌ | ❌ | No shop found |
+| Nahuel Grego | ❌ | ❌ | ❌ | No shop found |
+| Naomi Romero | ❌ | ❌ | ❌ | No shop found |
 | Natalie Andrewson | ❌ | ❌ | ❌ | No shop found (results are Natalie Anderson, *Survivor*) |
-| Natasha Allegri | ❌ | ❌ | ❌ | Only auto-generated "Natasha Allegri" keyword pages (third-party Bee & PuppyCat fan art) |
-| Nathan W. Pyle Strange Planet | — | — | — | Not checked (budget) |
-| Nerida Comic | — | — | — | Not checked (budget) |
-| Nihilo Art | — | — | — | Not checked (budget) |
+| Natasha Allegri | ❌ | ❌ | ❌ | Only auto-generated "Natasha Allegri" keyword pages (third-party *Bee & PuppyCat* fan art) |
+| Nathan W. Pyle Strange Planet | ❌ | ❌ | ❌ | Only keyword pages + third-party fan designs ("Mentally Dating Nathan Pyle" is another seller); sells via own store/publisher |
+| Nerida Comic | ❌ | ❌ | ❌ | No shop found |
+| Nihilo Art | ❌ | ❌ | ❌ | No shop found ("ex nihilo" Latin-phrase keyword pages) |
 | Nikolas Draper-Ivey | ❌ | ❌ | ❌ | No shop found |
-| Nogi San | — | — | — | Not checked (budget) |
+| Nogi San | ❌ | ❌ | ❌ | No shop found (results are *Yuki Yuna* character Nogi Sonoko) |
 | **nooligan** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/nooligan (exact handle match) |
-| Nunar | — | — | — | Not checked (budget) |
-| nunu.senpai | — | — | — | Not checked (budget) |
-| Olivia Fields | — | — | — | Not checked (budget) |
-| Opal Lines | — | — | — | Not checked (budget) |
+| Nunar | ❌ | ❌ | ❌ | No shop found |
+| nunu.senpai | ❌ | ❌ | ❌ | No shop found (UwU-Senpai is a different seller) |
+| Olivia Fields | ❌ | ❌ | ❌ | No shop found |
+| Opal Lines | ❌ | ❌ | ❌ | No shop found (OpalEllery is a different seller) |
 | palaceofposey | ❌ | ❌ | ❌ | No shop found |
 | Patabot | ❌ | ❌ | ❌ | No shop found |
-| Patricia Martin | — | — | — | Not checked (budget) |
-| Peach Momoko | ❌ | ❌ | ❌ | Only third-party/keyword pages (incl. *Wedding Peach* anime); sells via own site/publishers |
-| **Penelopeloveprints** | ？(likely ✅) | **✅** | ❌ | Confirmed TeePublic: teepublic.com/user/penelopeloveprints (designs bylined `penelopeloveprints`). RB `redbubble.com/people/ploveprints/shop` is a strong handle match (P-Love-Prints) but not bio-confirmed |
-| Peow2 | — | — | — | Not checked (budget) |
-| Peter Kuper Inc. | — | — | — | Not checked (budget) |
-| Phillip Sevy | — | — | — | Not checked (budget) |
-| POMMO Press | — | — | — | Not checked (budget) |
+| Peach Momoko | ❌ | ❌ | ❌ | Only third-party/keyword pages (incl. the *Wedding Peach* anime); sells via own site/publishers |
+| **Penelopeloveprints** | **✅** | **✅** | ❌ | Confirmed both: teepublic.com/user/penelopeloveprints AND redbubble.com/people/ploveprints/shop — the same design, "Panda Dim Sum Circus", appears on both, so `ploveprints` is hers |
+| Peow2 | ❌ | ❌ | ❌ | No shop found ("peow peow" cat-meme keyword pages) |
+| Peter Kuper Inc. | ❌ | ❌ | ❌ | No shop found |
+| Phillip Sevy | ❌ | ❌ | ❌ | No shop found (results are *Severance* "Sevy" merch) |
+| POMMO Press | ❌ | ❌ | ❌ | No shop found (pom-pom keyword pages) |
 | Qinimoonie | ❌ | ❌ | ❌ | No shop found |
-| Queen Riot LLC | — | — | — | Not checked (budget) |
-| Rachel Cherry | — | — | — | Not checked (budget) |
 | **Rachta Lin** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/rachtalin, titled "Art of Rachta" — her own brand name; Dota 2 / Overwatch art matches her work |
-| RAE Media | — | — | — | Not checked (budget) |
 | rat_chuuu | ❌ | ❌ | ❌ | No shop found |
 | Rebecca Mock | ❌ | ❌ | ❌ | No shop found |
 | Ren Strapp | ❌ | ❌ | ❌ | No shop found (results are Renee Rapp) |
-| Rick Parker Art | — | — | — | Not checked (budget) |
+| Rick Parker Art | ❌ | ❌ | ❌ | No shop found |
 | Rose Besch | ❌ | ❌ | ❌ | No shop found (sells via own site/Etsy) |
-| **Ryan Dunlavey** | **✅** | ❌ | ❌ | Confirmed: RB seller `RyanDunlavey77` selling his own *Action Philosophers* art ("PLATO SMASH!") — his own IP, exact name match |
-| Ryan M Kincaid | — | — | — | Not checked (budget) |
-| Saefern | — | — | — | Not checked (budget) |
-| Sajad Shah | — | — | — | Not checked (budget) |
+| **Ryan Dunlavey** | **✅** | ❌ | ❌ | Confirmed: RB seller `RyanDunlavey77` selling his own *Action Philosophers* art ("PLATO SMASH!") — his own IP plus exact name match |
+| Ryan M Kincaid | ❌ | ❌ | ❌ | No shop found (results are Voltron's Ryan Kinkade / Colleen Hoover's Ryle Kincaid) |
+| Saefern | ❌ | ❌ | ❌ | No shop found (Sefeiren is a different seller) |
+| Sajad Shah | ❌ | ❌ | ❌ | No shop found (Sajad Sadiq is a different seller) |
 | Samanthadoodles | ❌ | ❌ | ❌ | No shop found (samdoodle / SamanthaJBarnes are different sellers) |
-| Sarah Cosico | — | — | — | Not checked (budget) |
+| Sarah Cosico | ❌ | ❌ | ❌ | No shop found |
 | Sarah Myer | ❌ | ❌ | ❌ | No shop found (RB "sarah myers" hits are a different photographer's collection) |
 | Sarah Vara | ❌ | ❌ | ❌ | No shop found |
-| Satoshi Hatano | — | — | — | Not checked (budget) |
-| Scott's Collectibles / Scotts Collectables | — | — | — | Not checked (budget) |
+| Satoshi Hatano | ❌ | ❌ | ❌ | No shop found |
 | Sean Forney | ❌ | ❌ | ❌ | No shop found |
 | Sean Von Gorman (of Comics) | ❌ | ❌ | ❌ | No shop found |
-| Sedat Oezgen | — | — | — | Not checked (budget) |
-| Seraji | — | — | — | Not checked (budget) |
-| Serg Acuña | — | — | — | Not checked (budget) |
+| Sedat Oezgen | ❌ | ❌ | ❌ | No shop found |
+| Seraji | ❌ | ❌ | ❌ | No shop found |
+| Serg Acuña | ❌ | ❌ | ❌ | No shop found (results are baseball's Ronald Acuña Jr.) |
 | shmeemin | ❌ | ❌ | ❌ | No shop found (results are the "Sminem" meme) |
-| SiGH | — | — | — | Not checked (budget) |
-| SNIP•SNIP Studio | — | — | — | Not checked (budget) |
-| Soo Lee | — | — | — | Not checked (budget) |
+| SNIP•SNIP Studio | ？(likely ✅) | ❌ | ❌ | **Worth a follow-up.** Real RB shop redbubble.com/people/snipsnipart/shop ("SnipSnipArt") with its own anime/game art (Promare, *Fire Emblem* "Verdant Wind", *Yakuza* "Baka Mitai"). Handle is close but not identical to the exhibitor name — confirm in person |
 | soonoym | ❌ | ❌ | ❌ | No shop found |
 | Sorah Suhng | ❌ | ❌ | ❌ | No shop found |
-| **SOZOMAIKA** | **✅** | **✅** | ❌ | Confirmed both: redbubble.com/people/sozomaika (real RB account, follower page indexed) AND teepublic.com/user/sozomaika — exact handle, and the FFX-2/Big Hero 6 mashup art matches her work |
+| **SOZOMAIKA** | **✅** | **✅** | ❌ | Confirmed both: redbubble.com/people/sozomaika (real RB account — follower page indexed) AND teepublic.com/user/sozomaika — exact handle, and the FFX-2 / Big Hero 6 mashup art matches her work |
 | Stephanie Lavaud | ❌ | ❌ | ❌ | No shop found |
-| Steven Defendini | ❌ | ❌ | ❌ | No shop found |
+| Steven Defendini | ❌ | ❌ | ❌ | No shop found (Steven Rhodes is a different seller) |
 | Stuart Sayger | ❌ | ❌ | ❌ | No shop found (sells via own site/cons) |
 | Sweeney Boo | ❌ | ❌ | ❌ | No shop found (results are Sydney Sweeney / Sweeney Todd) |
+| Taejin Art | ❌ | ❌ | ❌ | No shop found ("taejin" hits are a BTS fan-ship tag) |
 | Tazatouille | ❌ | ❌ | ❌ | No shop found (results are *Ratatouille* keyword pages) |
-
+| Tehani Farr | ❌ | ❌ | ❌ | No shop found (results are *The Good Place*'s Tahani) |
+| The Art of Michael C. Hayes | ？ | ❌ | ❌ | Inconclusive: an RB shop redbubble.com/people/MCH77/shop exists under "Michael Charman Hayes" — different middle name, and no content match confirmed |
+| The Nerdy Alchemist | ❌ | ❌ | ❌ | No shop found (generic "nerdy alchemy" / Fullmetal Alchemist keyword pages) |
+| They Can Talk | ❌ | ❌ | ❌ | No shop found for the webcomic (Jimmy Craig); sells via own store |
+| Thom Zahler Art Studios | ❌ | ❌ | ❌ | No shop found |
+| Time Crunch Comics | ❌ | ❌ | ❌ | No shop found |
+| Todd Nauck | ❌ | ❌ | ❌ | No shop found |
+| **Todd Beats** | **✅** | ❌ | ❌ | Confirmed RB account: redbubble.com/people/toddbeats (own work "Monkey in Headphones") — exact handle match |
+| Tom Richmond | ❌ | ❌ | ❌ | No shop found (results are NASCAR's Tim Richmond) |
+| Toma Vagner | ❌ | ❌ | ❌ | No shop found |
+| ToniRenea Art | ❌ | ❌ | ❌ | No shop found |
+| Tony Fleecs | ❌ | ❌ | ❌ | No shop found |
+| **Tony Moy Arts** | **✅** | ❌ | ❌ | Confirmed own shop: redbubble.com/people/tony-moy/shop — RB bio matches him exactly (Chicago comic/fantasy artist in watercolour & gouache, Zenescope's *The Mainstream*, Batman/The Maxx variants, links tonymoy.art and @tony_moy) |
+| Tora Khrow & wetshrimb | ❌ | ❌ | ❌ | No shop found for either half (searched "wetshrimb") |
+| Tracie Ching | ？ | ？ | ❌ | Inconclusive: TeePublic keyword pages ("Cash Rules Everything Around Me", "Illuminate") may carry her designs, but no `/user/<handle>` storefront surfaced; she primarily sells prints via her own site |
+| Tracy Yardley & Jennifer Hernandez | ❌ | ❌ | ❌ | No shop found (Sonic-related hits are third-party fan art) |
+| Tran Nguyen | ❌ | ❌ | ❌ | No shop found (very common name; only surname keyword pages) |
+| Travis Mercer | ❌ | ❌ | ❌ | No shop found |
+| Tula Lotay | ❌ | ❌ | ❌ | No shop found (sells via own site/Ziggy's End) |
+| Tyler Boss | ❌ | ❌ | ❌ | No shop found (results are Tyler1 / Tyler Tilley) |
+| Tyler Walpole Creations | ❌ | ❌ | ❌ | No shop found |
+| Tyrell Cannon | ❌ | ❌ | ❌ | No shop found (results are House Tyrell / Tyrell Corp) |
+| V Ken Marion | ❌ | ❌ | ❌ | No shop found |
+| Vonnart | ？ | ❌ | ❌ | Inconclusive: an RB seller "VonnArt" exists, but its content is automotive pop art (Mazda Miata etc.), which doesn't obviously match an Artist Alley exhibitor — probably a different seller |
+| Webway Comics / Greg Anderson Elysée | ❌ | ❌ | ❌ | No shop found |
+| Witchxing Studio & Chentomology | ❌ | ❌ | ❌ | No shop found |
+| Wren McDonald | ❌ | ❌ | ❌ | No shop found |
+| xinillus | ❌ | ❌ | ❌ | No shop found |
+| yiyuehua | ❌ | ❌ | ❌ | No shop found |
+| YUKINNNNNNN | ❌ | ❌ | ❌ | No shop found (Yukiin is a different seller) |
+| Zara H Art | ❌ | ❌ | ❌ | No shop found |
+| ZOE LACCHEI | ❌ | ❌ | ❌ | No shop found |
 ## Status
-- Artist Alley checked: **286 / ~450** (201 added this pass, names 1–210 of the 466-name list, in order)
-- **Remaining: 265 names** — `remaining_artist_alley.txt` has been rewritten to exactly those, resuming at *Ben Percy*
-- **This pass stopped early: the session's web-search budget (200 searches) was exhausted.** Direct
-  fetches to redbubble.com / teepublic.com are blocked by the network egress policy, so search was the
-  only available channel. To finish, raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` or start a new session.
+- **Pass 3 (this pass): 132 of the 265 remaining names checked; 133 still outstanding.**
+  `remaining_artist_alley.txt` has been rewritten to exactly those 133 names.
+- Cumulative Artist Alley coverage: pass 1–2 tables (above) + 132 names here. (Note: the
+  pass-2 count of "286 / ~450" doesn't reconcile with a 466-name master list plus 265
+  remaining — 286 + 265 = 551 — so there is some double-counting in the earlier tally.
+  The figure to trust is the one that is directly verifiable: **132 of the 265 names in
+  `remaining_artist_alley.txt` are now checked, 133 are not.**)
+- **Why this pass stopped where it did:** the session's web-search budget again ran down.
+  Two things make each name cost more than one search: (a) direct HTTPS to
+  redbubble.com / teepublic.com / dashery.com is refused at the network egress proxy
+  (`CONNECT ... 403`), and `WebFetch` to those hosts returns `EGRESS_BLOCKED`, so page
+  fetching is not available at all; (b) every search-engine endpoint tested directly
+  (DuckDuckGo lite/html, Bing, Google, Startpage, Mojeek, Brave API) is also blocked, so
+  the built-in restricted `WebSearch` is the *only* channel — and it silently re-runs
+  itself 1–5 times when it can't satisfy the query, which it usually can't for an obscure
+  artist name. Well-known names are the worst offenders (e.g. "Jeph Loeb" burned 5 units,
+  "Tracy Yardley" 5, "Nathan W. Pyle" 5).
+- **To finish the remaining 133:** raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`, or
+  allow redbubble.com / teepublic.com / dashery.com through the egress policy (by far the
+  bigger win — a direct fetch of `redbubble.com/people/<handle>` or
+  `teepublic.com/user/<handle>` would settle each name in one cheap request with no
+  keyword-page noise at all), or simply run another session against the rewritten
+  `remaining_artist_alley.txt`.
 
-### Confirmed hits (15 + 1 likely)
+### Confirmed hits — pass 3 (10 new, + 3 leads)
+| Artist | Where |
+|---|---|
+| **Kai Texel & Riadoodles** | RB + TP — `riadoodles` on both |
+| **Lee Kohse** | TP — teepublic.com/user/kindergoth (his own *Kindergoth* comic) |
+| **Monkey Minion** | TP — teepublic.com/user/monkeyminion |
+| **nooligan** | TP — teepublic.com/user/nooligan |
+| **Penelopeloveprints** | RB + TP — `ploveprints` (RB) + `penelopeloveprints` (TP) |
+| **Rachta Lin** | TP — teepublic.com/user/rachtalin ("Art of Rachta") |
+| **Ryan Dunlavey** | RB — seller `RyanDunlavey77` (*Action Philosophers*) |
+| **SOZOMAIKA** | RB + TP — `sozomaika` on both |
+| **Todd Beats** | RB — redbubble.com/people/toddbeats |
+| **Tony Moy Arts** | RB — redbubble.com/people/tony-moy/shop (RB bio matches him) |
+
+Leads worth finishing in person or with one more check:
+- **SNIP•SNIP Studio** — `redbubble.com/people/snipsnipart/shop` is a real shop with its own
+  anime/game art; handle is close but not identical to the exhibitor name.
+- **Leanne Huynh Art** — RB products appear to carry her byline, but no storefront URL surfaced.
+- **Marissa Pope** — her cover art *is* selling on Redbubble, but through the third-party store
+  `jackscomics`, not her own account. Same situation as Cryssy Cheung below: she already has an
+  Articore-platform relationship by proxy, which makes her a good conversation.
+
+### Confirmed hits — passes 1–2 (15 + 1 likely)
 | Artist | Where |
 |---|---|
 | Acorviart | RB + TP |
@@ -468,3 +532,25 @@ wastes budget, so bare names work better.
 
 This means the false-negative rate is nontrivial — a "❌" here means "no evidence surfaced,"
 not "definitively absent."
+
+**Added in pass 3:**
+- The URL-shape heuristic held up well and produced every one of this pass's ten hits. Three
+  shapes are worth searching for, not just the two named above: besides `/people/<handle>/shop`
+  and `/user/<handle>`, a **bare product URL with a byline** is just as good — e.g.
+  `redbubble.com/i/poster/...-by-RyanDunlavey77/...` or
+  `redbubble.com/people/toddbeats/works/...`. Both of those were hits that no `/shop` URL
+  would have revealed.
+- **Don't trust the search tool's prose summary; read the URLs.** Several times the summary
+  asserted "X is an independent artist on Redbubble" purely by inference from keyword pages
+  (Leanne Huynh, Tracie Ching, Vonnart, Nihilo Art), which is exactly the false positive the
+  methodology warns about. Conversely, the summary for Tony Moy quoted a real RB bio verbatim
+  and was solid. The discriminator is always whether a `/people/` or `/user/` path appears.
+- **Watch for the artist's work on someone *else's* storefront.** Marissa Pope's cover art
+  sells on Redbubble via `jackscomics`; Cryssy Cheung's via *ForAllNerds*. These are ❌ for
+  "own storefront" but are arguably the *most* useful names on the list commercially.
+- **Cost per name is 1–5 search units, not 1.** The search backend re-runs itself when it
+  judges the results unsatisfying, which happens most for recognisable names it "expects" to
+  find a biography for. Budgeting one unit per name will overrun by roughly 25–30%.
+- **Single-word or dictionary-word handles are effectively unsearchable** by this method
+  (SiGH, Nate, Jock, Yi Yang, Soo Lee): the restricted search returns pure keyword noise.
+  Those need a direct handle fetch, which the egress policy currently blocks.
