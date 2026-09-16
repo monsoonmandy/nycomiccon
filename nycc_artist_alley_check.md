@@ -293,6 +293,128 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 | Jonathan Wayshak | ❌ | ❌ | ❌ | No shop found |
 | Jorge Fornes | ❌ | ❌ | ❌ | No shop found |
 
+### Continued from `remaining_artist_alley.txt` (pass 3)
+
+Note on ordering: this pass did **not** run strictly down the list. Restricted web search is the only
+available channel (see "Note on method"), and the search backend silently retries 1–5 times per query,
+so the per-session search budget covers well under one name per budget unit. To make sure the
+high-value names got checked before any budget ran out, this pass front-loaded the independent /
+handle-style illustrator names (the population that actually uses POD) and left the staff
+writers, colorists, inkers, letterers and work-for-hire cover artists for afterwards.
+
+| Artist | Redbubble | TeePublic | Dashery | Notes |
+|---|---|---|---|---|
+| Ben Percy | ❌ | ❌ | ❌ | Writer (Benjamin Percy); only Percy Jackson keyword pages |
+| Collin Kelly / Jackson Lanzing | ❌ | ❌ | ❌ | Writers, no merch shop found |
+| Conor McCreery | ❌ | ❌ | ❌ | Writer; results are Conor McGregor / Scotty McCreery |
+| Daniel Barnes | ❌ | ❌ | ❌ | No shop found (was unchecked in pass 2) |
+| Daniel Henriques | ❌ | ❌ | ❌ | Inker; no shop found (was unchecked in pass 2) |
+| Fan Yang | ❌ | ❌ | ❌ | No shop found; "yang fan art" hits are RWBY keyword pages (was unchecked in pass 2) |
+| Jeph Loeb | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Joe Quesada | ❌ | ❌ | ❌ | No shop found (only Marvel keyword pages) |
+| Jose Marzan Jr. | ❌ | ❌ | ❌ | Inker, no shop found |
+| Juan Doe | ❌ | ❌ | ❌ | No shop found ("john doe" keyword pages only) |
+| Kaare Andrews | ❌ | ❌ | ❌ | No shop found |
+| Katie Cook | ❌ | ❌ | ❌ | No shop found (sells via own site/Etsy); several unrelated "Katie" RB shops |
+| Josh C Lyman | ❌ | ❌ | ❌ | No shop found; results are Josh Lyman (*The West Wing*) |
+| JuanjoLopez | ❌ | ❌ | ❌ | No shop found |
+| Julie Sakai | ❌ | ❌ | ❌ | No shop found |
+| JustaSuta Art + Design | ❌ | ❌ | ❌ | No shop found (results are Jujutsu Kaisen keyword pages) |
+| Jwijaya Art | ❌ | ❌ | ❌ | No shop found |
+| KamoriaArt | ❌ | ❌ | ❌ | No shop found |
+| Kat Tsai Art | ❌ | ❌ | ❌ | No shop found (Kat's Fine Art Studio is a different seller) |
+| Kelsey Matcha | ❌ | ❌ | ❌ | No shop found |
+| Kevin Scalzo | ❌ | ❌ | ❌ | No shop found |
+| Kgaz Art | — | — | — | Not checked (budget) |
+| KIBAR | — | — | — | Not checked (budget) |
+| Kim-Joy | ❌ | ❌ | ❌ | No shop found (Bake Off author; sells via own site/publisher) |
+| Kingwood Comics | — | — | — | Not checked (budget) |
+| Lauren Moran | — | — | — | Not checked (budget) |
+| Le Petit Elefant | — | — | — | Not checked (budget) |
+| Leanne Huynh Art | — | — | — | Not checked (budget) |
+| Lee Kohse | — | — | — | Not checked (budget) |
+| Leirix | ❌ | ❌ | ❌ | No shop found (Leirix Li; sells via own site) |
+| Lictoria | ❌ | ❌ | ❌ | No shop found |
+| Lovelyillustration | ❌ | ❌ | ❌ | "lovelyillustration" is a generic RB *tag* used by many sellers, not this artist's shop |
+| Lucas Meyer | — | — | — | Not checked (budget) |
+| Luke McGarry | ❌ | ❌ | ❌ | No shop found (results are *West Wing* McGarry + unrelated Dashery store) |
+| M.K. Matsumoto | — | — | — | Not checked (budget) |
+| Maliadoodles | ❌ | ❌ | ❌ | No shop found (malinoodle / ruhamadoodles are different sellers) |
+| Marc Yarza | — | — | — | Not checked (budget) |
+| Marcelo Matere Art | — | — | — | Not checked (budget) |
+| Maria Wolf & Jimmy Kucaj | — | — | — | Not checked (budget) |
+| Mariana Moreno | — | — | — | Not checked (budget) |
+| Marissa Pope | — | — | — | Not checked (budget) |
+| Matt Gaudio | — | — | — | Not checked (budget) |
+| Max Schaller | — | — | — | Not checked (budget) |
+| Megan Huang | — | — | — | Not checked (budget) |
+| Megguran Studio LLC | — | — | — | Not checked (budget) |
+| MELONNABAR | ❌ | ❌ | ❌ | No shop found (only "melona/melon bar" keyword pages) |
+| Mike Krome | ❌ | ❌ | ❌ | No shop found (KromeStudios is an unrelated game studio) |
+| Millennial Comics | — | — | — | Not checked (budget) |
+| Monkey Minion | — | — | — | Not checked (budget) |
+| Mostafa Moussa | — | — | — | Not checked (budget) |
+| Nahuel Grego | — | — | — | Not checked (budget) |
+| Naomi Romero | — | — | — | Not checked (budget) |
+| Natalie Andrewson | ❌ | ❌ | ❌ | No shop found (results are Natalie Anderson, *Survivor*) |
+| Natasha Allegri | ❌ | ❌ | ❌ | Only auto-generated "Natasha Allegri" keyword pages (third-party Bee & PuppyCat fan art) |
+| Nathan W. Pyle Strange Planet | — | — | — | Not checked (budget) |
+| Nerida Comic | — | — | — | Not checked (budget) |
+| Nihilo Art | — | — | — | Not checked (budget) |
+| Nikolas Draper-Ivey | ❌ | ❌ | ❌ | No shop found |
+| Nogi San | — | — | — | Not checked (budget) |
+| **nooligan** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/nooligan (exact handle match) |
+| Nunar | — | — | — | Not checked (budget) |
+| nunu.senpai | — | — | — | Not checked (budget) |
+| Olivia Fields | — | — | — | Not checked (budget) |
+| Opal Lines | — | — | — | Not checked (budget) |
+| palaceofposey | ❌ | ❌ | ❌ | No shop found |
+| Patabot | ❌ | ❌ | ❌ | No shop found |
+| Patricia Martin | — | — | — | Not checked (budget) |
+| Peach Momoko | ❌ | ❌ | ❌ | Only third-party/keyword pages (incl. *Wedding Peach* anime); sells via own site/publishers |
+| **Penelopeloveprints** | ？(likely ✅) | **✅** | ❌ | Confirmed TeePublic: teepublic.com/user/penelopeloveprints (designs bylined `penelopeloveprints`). RB `redbubble.com/people/ploveprints/shop` is a strong handle match (P-Love-Prints) but not bio-confirmed |
+| Peow2 | — | — | — | Not checked (budget) |
+| Peter Kuper Inc. | — | — | — | Not checked (budget) |
+| Phillip Sevy | — | — | — | Not checked (budget) |
+| POMMO Press | — | — | — | Not checked (budget) |
+| Qinimoonie | ❌ | ❌ | ❌ | No shop found |
+| Queen Riot LLC | — | — | — | Not checked (budget) |
+| Rachel Cherry | — | — | — | Not checked (budget) |
+| **Rachta Lin** | ❌ | **✅** | ❌ | Confirmed TeePublic store: teepublic.com/user/rachtalin, titled "Art of Rachta" — her own brand name; Dota 2 / Overwatch art matches her work |
+| RAE Media | — | — | — | Not checked (budget) |
+| rat_chuuu | ❌ | ❌ | ❌ | No shop found |
+| Rebecca Mock | ❌ | ❌ | ❌ | No shop found |
+| Ren Strapp | ❌ | ❌ | ❌ | No shop found (results are Renee Rapp) |
+| Rick Parker Art | — | — | — | Not checked (budget) |
+| Rose Besch | ❌ | ❌ | ❌ | No shop found (sells via own site/Etsy) |
+| **Ryan Dunlavey** | **✅** | ❌ | ❌ | Confirmed: RB seller `RyanDunlavey77` selling his own *Action Philosophers* art ("PLATO SMASH!") — his own IP, exact name match |
+| Ryan M Kincaid | — | — | — | Not checked (budget) |
+| Saefern | — | — | — | Not checked (budget) |
+| Sajad Shah | — | — | — | Not checked (budget) |
+| Samanthadoodles | ❌ | ❌ | ❌ | No shop found (samdoodle / SamanthaJBarnes are different sellers) |
+| Sarah Cosico | — | — | — | Not checked (budget) |
+| Sarah Myer | ❌ | ❌ | ❌ | No shop found (RB "sarah myers" hits are a different photographer's collection) |
+| Sarah Vara | ❌ | ❌ | ❌ | No shop found |
+| Satoshi Hatano | — | — | — | Not checked (budget) |
+| Scott's Collectibles / Scotts Collectables | — | — | — | Not checked (budget) |
+| Sean Forney | ❌ | ❌ | ❌ | No shop found |
+| Sean Von Gorman (of Comics) | ❌ | ❌ | ❌ | No shop found |
+| Sedat Oezgen | — | — | — | Not checked (budget) |
+| Seraji | — | — | — | Not checked (budget) |
+| Serg Acuña | — | — | — | Not checked (budget) |
+| shmeemin | ❌ | ❌ | ❌ | No shop found (results are the "Sminem" meme) |
+| SiGH | — | — | — | Not checked (budget) |
+| SNIP•SNIP Studio | — | — | — | Not checked (budget) |
+| Soo Lee | — | — | — | Not checked (budget) |
+| soonoym | ❌ | ❌ | ❌ | No shop found |
+| Sorah Suhng | ❌ | ❌ | ❌ | No shop found |
+| **SOZOMAIKA** | **✅** | **✅** | ❌ | Confirmed both: redbubble.com/people/sozomaika (real RB account, follower page indexed) AND teepublic.com/user/sozomaika — exact handle, and the FFX-2/Big Hero 6 mashup art matches her work |
+| Stephanie Lavaud | ❌ | ❌ | ❌ | No shop found |
+| Steven Defendini | ❌ | ❌ | ❌ | No shop found |
+| Stuart Sayger | ❌ | ❌ | ❌ | No shop found (sells via own site/cons) |
+| Sweeney Boo | ❌ | ❌ | ❌ | No shop found (results are Sydney Sweeney / Sweeney Todd) |
+| Tazatouille | ❌ | ❌ | ❌ | No shop found (results are *Ratatouille* keyword pages) |
+
 ## Status
 - Artist Alley checked: **286 / ~450** (201 added this pass, names 1–210 of the 466-name list, in order)
 - **Remaining: 265 names** — `remaining_artist_alley.txt` has been rewritten to exactly those, resuming at *Ben Percy*
