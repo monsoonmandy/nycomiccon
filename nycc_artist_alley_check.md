@@ -295,7 +295,7 @@ Legend: ✅ Confirmed own storefront | ❌ No evidence found | ？ Inconclusive/
 
 ### Continued from `remaining_artist_alley.txt` (pass 3)
 
-**169 of the 265 remaining names checked this pass; 96 still unchecked** (search budget —
+**198 of the 265 remaining names checked this pass; 67 still unchecked** (search budget —
 see the Status section). Ordering note: this pass did *not* run strictly down the list.
 Restricted web search is the only channel available (see "Note on method"), and the search
 backend silently retries 1–5 times per query, so the per-session budget buys well under one
@@ -303,7 +303,7 @@ name per unit. To be sure the high-value names got checked before the budget ran
 pass front-loaded the independent / handle-style illustrator names — the population that
 actually uses print-on-demand — and left the staff writers, inkers, colorists, letterers and
 work-for-hire cover artists for last. `remaining_artist_alley.txt` has been rewritten to
-exactly the 96 names still outstanding.
+exactly the 67 names still outstanding.
 
 | Artist | Redbubble | TeePublic | Dashery | Notes |
 |---|---|---|---|---|
@@ -476,35 +476,67 @@ exactly the 96 names still outstanding.
 | Tommaso Bianchi | ❌ | ❌ | ❌ | No shop found (results are the Bianchi bicycle brand) |
 | Tyler Chin-Tanner | ❌ | ❌ | ❌ | No shop found (A Wave Blue World publisher) |
 | Viktor Farro | ❌ | ❌ | ❌ | No shop found |
+| Joshua Williamson | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Joyce Chin | ❌ | ❌ | ❌ | No shop found (Joyce Chan / `joycechan20` is a different seller) |
+| Juan Ferreyra | ❌ | ❌ | ❌ | No shop found |
+| Julio Anta | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Justin Jordan | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| **Josef Rubinstein** | **✅** | ❌ | ❌ | Confirmed own shop: redbubble.com/people/josefrubinstein/shop — exact full-name handle, and the name is distinctive enough that a coincidence is implausible |
+| **Keith Tucker** | **✅** | ❌ | ❌ | Confirmed: RB seller `Tucker-toons` with the display name "keith tucker" (e.g. "Hula Girl Cartoon") — handle and cartoon content both fit the animator/cartoonist |
+| Keith Williams | ❌ | ❌ | ❌ | Inker, no shop found |
+| Kenny Porter | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Kevin Maguire | ❌ | ❌ | ❌ | No shop found |
+| Klaus Janson | ❌ | ❌ | ❌ | No shop found (results are fictional Klauses — *The Originals*, *Umbrella Academy*) |
+| Kwanza Osajyefo | ❌ | ❌ | ❌ | No shop found (search collapses to "Kwanzaa" merch) |
+| Kyle Higgins | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| Laura Zuccheri | ❌ | ❌ | ❌ | No shop found |
+| **Lauren Moran** | ？(likely ✅) | ❌ | ❌ | **Worth a follow-up.** redbubble.com/people/laurenmoran/shop exists — exact-name handle, joined 2012, ~14 designs. Small/dormant enough, and the name common enough, that it may be a different Lauren Moran |
+| Lee Garbett | ❌ | ❌ | ❌ | No shop found |
+| Livio Ramondelli | ❌ | ❌ | ❌ | No shop found (results are *Trigun*'s Livio) |
+| Lorenzo Tammetta | ❌ | ❌ | ❌ | No shop found |
+| Mario Santoro | ❌ | ❌ | ❌ | No shop found |
+| Matteo Della Fonte | ❌ | ❌ | ❌ | No shop found |
+| Melissa Flores | ❌ | ❌ | ❌ | Writer, no merch shop found |
+| MICO SUAYAN | ❌ | ❌ | ❌ | No shop found |
+| Mike DeBalfo | ❌ | ❌ | ❌ | No shop found (Mike DeFalco / `mikedefalco` is a different person) |
+| Nick Robles | ❌ | ❌ | ❌ | No shop found |
+| RAE Media | ❌ | ❌ | ❌ | No shop found (search collapses to Addison Rae merch) |
+| Riccardo Federici | ❌ | ❌ | ❌ | No shop found |
+| Satoshi Shiki | ❌ | ❌ | ❌ | No shop found (results are *Food Wars*' Satoshi Isshiki) |
+| Serge LaPointe | ❌ | ❌ | ❌ | Letterer, no shop found |
+| Shawn Kuruneru | ❌ | ❌ | ❌ | No shop found |
 ## Status
-- **Pass 3 (this pass): 169 of the 265 remaining names checked; 96 still outstanding.**
-  `remaining_artist_alley.txt` has been rewritten to exactly those 96 names.
-- Cumulative Artist Alley coverage: pass 1–2 tables (above) + 132 names here. (Note: the
+- **Pass 3 (this pass): 198 of the 265 remaining names checked; 67 still outstanding.**
+  `remaining_artist_alley.txt` has been rewritten to exactly those 67 names.
+- Cumulative Artist Alley coverage: pass 1–2 tables (above) + 198 names here. (Note: the
   pass-2 count of "286 / ~450" doesn't reconcile with a 466-name master list plus 265
   remaining — 286 + 265 = 551 — so there is some double-counting in the earlier tally.
-  The figure to trust is the one that is directly verifiable: **169 of the 265 names in
-  `remaining_artist_alley.txt` are now checked, 96 are not.**)
+  The figure to trust is the one that is directly verifiable: **198 of the 265 names in
+  `remaining_artist_alley.txt` are now checked, 67 are not.**)
 - **Why this pass stopped where it did:** the session's web-search budget again ran down.
-  Two things make each name cost more than one search: (a) direct HTTPS to
-  redbubble.com / teepublic.com / dashery.com is refused at the network egress proxy
-  (`CONNECT ... 403`), and `WebFetch` to those hosts returns `EGRESS_BLOCKED`, so page
-  fetching is not available at all; (b) every search-engine endpoint tested directly
-  (DuckDuckGo lite/html, Bing, Google, Startpage, Mojeek, Brave API) is also blocked, so
-  the built-in restricted `WebSearch` is the *only* channel — and it silently re-runs
-  itself 1–5 times when it can't satisfy the query, which it usually can't for an obscure
-  artist name. Well-known names are the worst offenders (e.g. "Jeph Loeb" burned 5 units,
-  "Tracy Yardley" 5, "Nathan W. Pyle" 5).
-- **To finish the remaining 96:** raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`, or
+  Direct HTTPS to redbubble.com / teepublic.com / dashery.com is refused at the network
+  egress proxy (`CONNECT ... 403`), and `WebFetch` to those hosts returns `EGRESS_BLOCKED`,
+  so page fetching is not available at all. Every search-engine endpoint tested directly
+  (DuckDuckGo lite/html, Bing, Google, Startpage, Mojeek, Brave API) is blocked too, so the
+  built-in restricted `WebSearch` is the *only* channel, and it is hard-capped at **200
+  calls per session** — all 200 spent here. Usefully, the cap counts *calls*, not the
+  sub-searches the tool re-runs internally when it can't satisfy a query (which it often
+  can't for an obscure name, and which happened five times over for "Jeph Loeb",
+  "Tracy Yardley" and "Nathan W. Pyle"). So one name costs exactly one unit, and a session
+  covers about 200 names.
+- **To finish the remaining 67:** raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`, or
   allow redbubble.com / teepublic.com / dashery.com through the egress policy (by far the
   bigger win — a direct fetch of `redbubble.com/people/<handle>` or
   `teepublic.com/user/<handle>` would settle each name in one cheap request with no
   keyword-page noise at all), or simply run another session against the rewritten
   `remaining_artist_alley.txt`.
 
-### Confirmed hits — pass 3 (10 new, + 3 leads)
+### Confirmed hits — pass 3 (12 new, + 5 leads)
 | Artist | Where |
 |---|---|
+| **Josef Rubinstein** | RB — redbubble.com/people/josefrubinstein/shop |
 | **Kai Texel & Riadoodles** | RB + TP — `riadoodles` on both |
+| **Keith Tucker** | RB — seller `Tucker-toons`, display name "keith tucker" |
 | **Lee Kohse** | TP — teepublic.com/user/kindergoth (his own *Kindergoth* comic) |
 | **Monkey Minion** | TP — teepublic.com/user/monkeyminion |
 | **nooligan** | TP — teepublic.com/user/nooligan |
@@ -524,6 +556,7 @@ Leads worth finishing in person or with one more check:
   Articore-platform relationship by proxy, which makes her a good conversation.
 - **Mariana Moreno** — `redbubble.com/people/mariana-moreno/shop` is an exact full-name slug, but
   the name is common enough that it may be a different person.
+- **Lauren Moran** — `redbubble.com/people/laurenmoran/shop`, same caveat (small, dormant since 2012).
 
 ### Confirmed hits — passes 1–2 (15 + 1 likely)
 | Artist | Where |
@@ -587,9 +620,11 @@ not "definitively absent."
 - **Watch for the artist's work on someone *else's* storefront.** Marissa Pope's cover art
   sells on Redbubble via `jackscomics`; Cryssy Cheung's via *ForAllNerds*. These are ❌ for
   "own storefront" but are arguably the *most* useful names on the list commercially.
-- **Cost per name is 1–5 search units, not 1.** The search backend re-runs itself when it
-  judges the results unsatisfying, which happens most for recognisable names it "expects" to
-  find a biography for. Budgeting one unit per name will overrun by roughly 25–30%.
+- **One name = one budget unit.** The cap is 200 `WebSearch` *calls* per session; the
+  sub-searches the tool re-runs internally when it isn't satisfied are free, so a
+  five-retry name costs the same as a one-shot name. Batch one name per call, ~6 calls per
+  message, and plan on ~200 names per session. Skip combined `"A" OR "B" OR "C"` queries:
+  they save nothing (the tool just splits them internally) and the results are much noisier.
 - **Single-word or dictionary-word handles are effectively unsearchable** by this method
   (SiGH, Nate, Jock, Yi Yang, Soo Lee): the restricted search returns pure keyword noise.
   Those need a direct handle fetch, which the egress policy currently blocks.
